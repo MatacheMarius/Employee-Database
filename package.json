@@ -1,0 +1,27 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    
+  },
+  "homepage": "",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "description": ""
+}
